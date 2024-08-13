@@ -1,0 +1,10 @@
+num = 15
+num1 = 7
+num2 = 10
+num3 = 5
+num4 = 9
+sum = num + num1 + num2 + num3 + num4
+name = "roma"
+toys = 23
+toy_cars = 12
+dolls = toys - toy_cars
